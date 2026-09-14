@@ -42,12 +42,12 @@ DEFAULT_APOLLO_BUDGET = 25
 DEFAULT_SENDS_PER_DAY = 25
 
 TAB_LABELS = [
-    "\U0001F3AF Lead Scanner & Directory Extractor",
-    "\U0001F4C8 Newborn Island Delta Engine",
-    "\U0001F69A Vegas Freight & Local Storage Arbitrage",
-    "\U0001F464 Apollo Contact Enrichment & New Hire Finder",
+    "🎯 Lead Scanner & Directory Extractor",
+    "📈 Newborn Island Delta Engine",
+    "🚚 Vegas Freight & Local Storage Arbitrage",
+    "👤 Apollo Contact Enrichment & New Hire Finder",
     "✉️ Pitch Angle Generator & Export",
-    "\U0001F4E3 Outreach Sequencer",
+    "📣 Outreach Sequencer",
 ]
 
 CSS = """
